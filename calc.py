@@ -8,7 +8,7 @@ print("ingrese el valor  del intervalo final")
 #nombre=input()
 b = input()
 b = int(b)
-print("desea ingresar el numero de diviones del intervalo?") 
+print("desea ingresar el numero de divisiones del intervalo?") 
 c = input()
 
 if c == "no": 
